@@ -6,6 +6,8 @@ The purpose of this API is to provide a reliable backend service for the Task Ma
 
 [Software Demo Video](http://youtube.link.goes.here)
 
+[Frontend Repository](https://github.com/Mikelesnr/TaskManagerApp.git)
+
 # Development Environment
 
 The development environment for this project includes the following tools and technologies:
